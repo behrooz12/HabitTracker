@@ -216,3 +216,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# HabitTracker
+
+# Excel temporary files
+~$*.xlsx
+
+# Database
+*.db
+
+# Application logs
+logs/
+*.log
+
+# Generated reports
+exports/
+
+# Windows
+Thumbs.db
+Desktop.ini
